@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morales-felix&label=Profile%20views&color=0e75b6&style=flat" alt="morales-felix" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morales-felix" alt="morales-felix" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tulachin" target="blank"><img src="https://img.shields.io/twitter/follow/tulachin?logo=twitter&style=for-the-badge" alt="tulachin" /></a> </p>
 
 - 🔭 I’m currently working on **LLMs for data normalization and clinical adjudication, and implementing classical ML processes to automate clinical diagnoses**
@@ -33,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morales-felix&show_icons=true&locale=en" alt="morales-felix" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morales-felix&" alt="morales-felix" /></p>
