@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Morales</h1>
-<h3 align="center">A healthcare data scientist living in Chicago, IL, and originally from Panama PA</h3>
+<h3 align="center">A healthcare data scientist living in Chicago, IL, and originally from Panama 🇵🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morales-felix&label=Profile%20views&color=0e75b6&style=flat" alt="morales-felix" /> </p>
 
@@ -30,4 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morales-felix&show_icons=true&locale=en&layout=compact" alt="morales-felix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morales-felix&show_icons=true&locale=en" alt="morales-felix" /></p>
+
 
