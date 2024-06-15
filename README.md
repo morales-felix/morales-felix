@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Morales</h1>
-<h3 align="center">A healthcare data scientist living in Chicago, IL, and originally from Panama</h3>
+<h3 align="center">A healthcare data scientist from Panama, living in Chicago, IL</h3>
 
 - 🔭 I’m currently working on **LLMs for data normalization and clinical adjudication, and implementing classical ML processes to automate clinical diagnoses**
 
