@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fmoralcaballero@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/morales-felix](www.linkedin.com/in/morales-felix)
+- 📄 Know about my experiences [www.linkedin.com/in/morales-felix](https://www.linkedin.com/in/morales-felix)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
