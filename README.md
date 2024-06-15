@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to get the MLOps certification**
 
-- 👨‍💻 All of my projects are available at [morales-felix.github.io](morales-felix.github.io)
+- 👨‍💻 All of my projects are available at [morales-felix.github.io](https://morales-felix.github.io)
 
 - 📫 How to reach me **fmoralcaballero@gmail.com**
 
