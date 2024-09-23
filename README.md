@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLMs for data normalization and clinical adjudication, and implementing classical ML processes to automate clinical diagnoses**
 
-- 🌱 I’m currently learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to get the MLOps certification**
+- 🌱 I’m currently learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to get an MLOps certification**
 
 - 👨‍💻 All of my projects are available at [morales-felix.github.io](https://morales-felix.github.io)
 
