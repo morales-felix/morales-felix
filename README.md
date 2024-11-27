@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix Morales</h1>
 <h3 align="center">A healthcare data scientist from Panama, living in Chicago, IL</h3>
 
-- 🔭 I’m currently working on **LLMs for data normalization and clinical adjudication, and implementing classical ML processes to automate clinical diagnoses**
+- 🔭 I’m currently working on **1. Software package to help archivists make sense of loads of digitized data, 2. Real-life implementation of classical ML approaches to automate clinical diagnoses**.
 
-- 🌱 I’m currently learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to get an MLOps certification**
+- 🌱 I'm learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to learn MLOps**.
 
 - 👨‍💻 My projects are available at [morales-felix.github.io](https://morales-felix.github.io)
 
