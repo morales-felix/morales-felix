@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **1. Software package to help archivists make sense of loads of digitized data, 2. Real-life implementation of classical ML approaches to automate clinical diagnoses**.
 
-- 🌱 I'm learning **the fundamentals of Deep Learning through deeplearning.ai's specializations, but I ultimately want to learn MLOps**.
-
 - 👨‍💻 My projects are available at [morales-felix.github.io](https://morales-felix.github.io)
 
 - 📫 How to reach me **fmoralcaballero@gmail.com**
