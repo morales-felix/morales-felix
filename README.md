@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Morales</h1>
 <h3 align="center">A data scientist and research software engineer living in Chicago, IL</h3>
 
-- 🔭 I’m currently working on **1. Software package to help archivists make sense of loads of digitized data, 2. Real-life implementation of classical ML approaches to automate clinical diagnoses**.
+- 🔭 I’m currently working on **1. Software platform to help archivists make sense of loads of digitized data, 2. Real-life implementation of classical ML approaches to automate clinical diagnoses**.
 
 - 👨‍💻 My projects are available at [morales-felix.github.io](https://morales-felix.github.io)
 
